@@ -18,22 +18,21 @@
 
 Ana Proje | [Eklendi](https://github.com/gethugothemes/bookworm-light)  
 :------------ |    :----:    | 
-Blog Paylaşımı ve Bu Yolda Gereken PHP kontrolleri, SQL izinleri                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Blog Paylaşımlarını Denetleme, Düzenleme           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Yetkiye Göre, Yazarın Blogları ve Tüm Yöneticilere Blog Gösterimi                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Yetkili Profili Düzenleme           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Yetkili Profiline Göre Arayüz Ekranı              | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Bloglara Yorum Ekleme                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Bloglarla İlgili Detayları Depolama    | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Kitap Bağışı için Kullanıcı Formu                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Kitap Bağışı İsteklerini Görüntüleme, Düzenleme ve Kullanıcılara Sunma                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Blogları, Alanlarına Göre Ayırma                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Üyelik Sistemi                      | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
-Üyelik Sistemine Göre Yorumları Ayarlama    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
-Üyelerin, Yetkili Olmak için İstek Gönderebilmeleri                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
-Üyelerin, Ücretsiz Kitap Satın Alabilmeleri                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
-Üyelerin, Reklamsız Bir Website için Premium Ayrıcalıkları                                       | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Üyelerin, Sistemdeki Diğer Yardımlaşma ve Dayanışma Olanaklarından Yararlanmaları                                        | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
+Not Uygulamasına Özel Karşılama Ekranı                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Yeni Bir Not Ekleme           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Yeni Notlar Ekeleme Esnasında Düzenlemeler Yapma, Seçenekleri Kullanma                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Favori Notların Sıralanması           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Notların Sıralanması              | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Notları Okuma Esnasında Güncellemeler Yapabilme                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Kullanıcının Önceki Notlarını Kullanarak Yapay Zeka Eğitimi    | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+AI Tarafından Kullanıcıya Özel Not Yaratma                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+AI Tarafından Yazılan Bir Notu Kullanıcıya Uygun Devam Ettirme                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+AI Tarafından Yazılan Notu Türkçe Dilbilgisi Kurallarına Uygun Düzeltme                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Karşılama Ekranını İlk Görüşten Sonra Yok Etme                      | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+Tema, Düzeltme, Seçenekler Bölümünü Ayarlar ile Yönetme    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+Tüm Dillere Uygunluk                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+İngilizceye Uygunluk                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
+
 
 
 
