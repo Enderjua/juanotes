@@ -16,8 +16,8 @@
 
 # JUANOTE PROJESİNDE VAR OLAN ÖZELLİKLER
 
-Ana Proje | [Eklendi](https://github.com/gethugothemes/bookworm-light)  | [Eklenecek](https://gethugothemes.com/products/bookworm/?ref=github) |
-:------------ |    :----:    |     :----:    |
+Ana Proje | [Eklendi](https://github.com/gethugothemes/bookworm-light)  
+:------------ |    :----:    | 
 Blog Paylaşımı ve Bu Yolda Gereken PHP kontrolleri, SQL izinleri                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
 Blog Paylaşımlarını Denetleme, Düzenleme           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
 Yetkiye Göre, Yazarın Blogları ve Tüm Yöneticilere Blog Gösterimi                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
@@ -34,6 +34,7 @@ Blogları, Alanlarına Göre Ayırma                | ![](https://demo.gethugoth
 Üyelerin, Ücretsiz Kitap Satın Alabilmeleri                    | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png)    |
 Üyelerin, Reklamsız Bir Website için Premium Ayrıcalıkları                                       | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
 Üyelerin, Sistemdeki Diğer Yardımlaşma ve Dayanışma Olanaklarından Yararlanmaları                                        | ![](https://demo.gethugothemes.com/icons/x.png)    | ![](https://demo.gethugothemes.com/icons/tick.png) |
+
 
 
 
